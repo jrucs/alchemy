@@ -44,10 +44,43 @@ The 5th element is sprit.  You start the game with 10 spirit tokens.  For each e
 * **Swimming** - Creatures with swimming cannot attack unless the defending player controls a water resource.
 * **Overflow** - Damage beyond defender's defense overflows.
 
-## Thoughts on Theme
+## Properties of Elements
 
-Cards within particular elements should play to the theme.  Each element should have a particular character with paths to a victory unique to it.
+Cards within particular elements play to a particular theme.  Each element has a distinct character with paths to a victory unique to it.  Card design and art are unique for each element.
 
-Elements should stand mostly on their own style wise with references to others.  The overall genre is cyberpunk, though air is technology focused with it being more of a side thought in the other elements.  Fire and water focus heavily on magic.  Earth focuses on the natural world.
+The overall genre is cyberpunk, though air is technology focused with it being more of a side thought in the other elements.  Fire and water focus heavily on magic.  Earth focuses on the natural world.
 
-Card design and art are unique for each element.
+* Air
+  * **Philosphy** - Technology, Ephemeral
+  * **Style** - Transmetropolitan, Shadowrun, Steampunk, Snowcrash, The Rocketeer, Johnny Neumonic, Max Headroom, Hackers, Battletech, Robotech, Voltron, Spectre
+  * **Power**
+    * Knowledge - Draw Cards.  Benefits from hand size.  Shuffle and Search.  Deck->Play/Hand/Discard
+    * Time - Add / Skip Turns.  Add / Skip Phases.  Tap.
+    * Copy and Steal
+    * Buff creature
+  * **Win** - Weird things happening with turns and phases.  Killed by buffed creatures or drawing too many cards.
+* Fire
+  * **Philosphy** - Entropy and Anger
+  * **Style** - J. M. W. Turner, Blade Runner, Film Noir, Dune (David Lynch), Art Deco
+  * **Power**
+    * Damage
+    * Discard from hand
+    * Destroy cards in play
+  * **Win** - Direct damage and dragons, crippled by no cards in hand or in play.
+* Water
+  * **Philosphy** - Calm, Patience
+  * **Style** - Tron, 20000 Leagues, Heavy Metal, Wizards, Gor, Airbrushed Fantasy, 80s Homebrew RPG
+  * **Power**
+    * Defense
+    * Prevent Damage and Destruction
+    * Counterspell
+    * Slow Things Down
+  * **Win** - Crushed by whales that won't die, unable to damage player as their life total climbs.
+* Earth
+  * **Philosphy** - Nature, Persistent
+  * **Style** - 1930s, Buck Rogers, pulp Sci Fi, Amazing Stories, National Park Posters, Smokey the Bear
+  * **Power**
+    * Resources
+    * Regrowth - Discard->Play/Hand/Deck.  Untap.
+    * Traps for card draw
+  * **Win** - Crushed by expensive megafauna that keep coming back from the dead.
