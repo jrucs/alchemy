@@ -50,7 +50,7 @@ Cards within particular elements play to a particular theme.  Each element has a
 
 The overall genre is cyberpunk, though air is technology focused with it being more of a side thought in the other elements.  Fire and water focus heavily on magic.  Earth focuses on the natural world.
 
-* Air
+* **Air**
   * **Philosphy** - Technology, Ephemeral
   * **Style** - Transmetropolitan, Shadowrun, Steampunk, Snowcrash, The Rocketeer, Johnny Neumonic, Max Headroom, Hackers, Battletech, Robotech, Voltron, Spectre
   * **Power**
@@ -59,7 +59,7 @@ The overall genre is cyberpunk, though air is technology focused with it being m
     * Copy and Steal
     * Buff creature
   * **Win** - Weird things happening with turns and phases.  Killed by buffed creatures or drawing too many cards.
-* Fire
+* **Fire**
   * **Philosphy** - Entropy and Anger
   * **Style** - J. M. W. Turner, Blade Runner, Film Noir, Dune (David Lynch), Art Deco
   * **Power**
@@ -67,7 +67,7 @@ The overall genre is cyberpunk, though air is technology focused with it being m
     * Discard from hand
     * Destroy cards in play
   * **Win** - Direct damage and dragons, crippled by no cards in hand or in play.
-* Water
+* **Water**
   * **Philosphy** - Calm, Patience
   * **Style** - Tron, 20000 Leagues, Heavy Metal, Wizards, Gor, Airbrushed Fantasy, 80s Homebrew RPG
   * **Power**
@@ -76,7 +76,7 @@ The overall genre is cyberpunk, though air is technology focused with it being m
     * Counterspell
     * Slow Things Down
   * **Win** - Crushed by whales that won't die, unable to damage player as their life total climbs.
-* Earth
+* **Earth**
   * **Philosphy** - Nature, Persistent
   * **Style** - 1930s, Buck Rogers, pulp Sci Fi, Amazing Stories, National Park Posters, Smokey the Bear
   * **Power**
