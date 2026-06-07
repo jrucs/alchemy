@@ -25,6 +25,17 @@ Symbols and colors for resources follow the [alchemical symbols](https://en.wiki
 | Water   | 🜄      | Blue   |
 | Earth   | 🜃      | Green  |
 
+## Types
+
+Alchemy extends JRUCS base types:
+
+* Object
+  * Resource
+  * Artifact
+    * Win Condition
+* Event
+  * Spell
+
 ## Tokens
 
 There is a token for each element:
