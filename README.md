@@ -41,11 +41,11 @@ Alchemy extends JRUCS base types:
 There is a token for each element:
 
 * Fire - Inflict 1 damage
-* Water - Prevent 2 damage or gain 2 life
-* Earth - Gain 🜁, 🜂, 🜄 or 🜃.
+* Water - Prevent 1 damage
+* Earth - Gain 🜁, 🜂, 🜄 or 🜃
 * Air - Draw 1 card
 
-The 5th element is sprit.  You start the game with 10 spirit tokens.  For each elemental in your deck, you start with 1 token of their type.  If you take a damage, you lose a token of your choice.  If you end a phase with 0 tokens, you lose.  
+The 5th element is sprit.  You start the game with 10 spirit tokens.  For each elemental in your deck, you start with 1 token of their type, up to 10.  If you take a damage, you lose a token of your choice.  If you end a phase with 0 tokens, you lose.  
 
 ## Abilities
 
