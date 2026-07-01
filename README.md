@@ -63,7 +63,6 @@ The overall genre is cyberpunk, though air is technology focused with it being m
 
 * **Air**
   * **Philosphy** - Technology, Ephemeral
-  * **Style** - Transmetropolitan, Shadowrun, Steampunk, Snowcrash, The Rocketeer, Johnny Neumonic, Max Headroom, Hackers, Battletech, Robotech, Voltron, Spectre
   * **Power**
     * Knowledge - Draw Cards.  Benefits from hand size.  Shuffle and Search.  Deck->Play/Hand/Discard
     * Time - Add / Skip Turns.  Add / Skip Phases.  Tap.
@@ -72,7 +71,6 @@ The overall genre is cyberpunk, though air is technology focused with it being m
   * **Win** - Weird things happening with turns and phases.  Killed by buffed creatures or drawing too many cards.
 * **Fire**
   * **Philosphy** - Entropy and Anger
-  * **Style** - J. M. W. Turner, Blade Runner, Film Noir, Dune (David Lynch), Art Deco
   * **Power**
     * Damage
     * Discard from hand
@@ -80,7 +78,6 @@ The overall genre is cyberpunk, though air is technology focused with it being m
   * **Win** - Direct damage and dragons, crippled by no cards in hand or in play.
 * **Water**
   * **Philosphy** - Calm, Patience
-  * **Style** - Tron, 20000 Leagues, Heavy Metal, Wizards, Gor, Airbrushed Fantasy, 80s Homebrew RPG
   * **Power**
     * Defense
     * Prevent Damage and Destruction
@@ -89,7 +86,6 @@ The overall genre is cyberpunk, though air is technology focused with it being m
   * **Win** - Crushed by whales that won't die, unable to damage player as their life total climbs.
 * **Earth**
   * **Philosphy** - Nature, Persistent
-  * **Style** - 1930s, Buck Rogers, pulp Sci Fi, Amazing Stories, National Park Posters, Smokey the Bear
   * **Power**
     * Resources
     * Regrowth - Discard->Play/Hand/Deck.  Untap.
