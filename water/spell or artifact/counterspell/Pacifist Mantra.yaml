@@ -1,0 +1,20 @@
+card:
+  name: Pacifist Mantra
+  type: Spell
+  cost: 🜄🜄🜄🜄
+  text:
+    - Counter a spell.  You gain Water tokens equal to that spell's cost.
+    - An eye for an eye only ends up making the whole world blind. -Mahatma Gandhi
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be blue with ornate designs.
+    - The image should be of an Indian guru meditating with a magical barrier around him and chaos outside.
+    - The entire card, including the image should look hand drawn in the style of an RPG game manual from the 1970s.
+    - The font of the text should look hand drawn in a fantasy style.

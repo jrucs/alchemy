@@ -1,0 +1,8 @@
+card:
+  name: Fire Elemental
+  type: Creature
+  cost: 🜂
+  combat: 1/1
+  text:
+    - Tap to produce a fire token
+    - Fire is bright.  Fire is clean.  Never so alive. -The Toadies

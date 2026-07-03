@@ -1,0 +1,17 @@
+card:
+  name: Waterton Lake
+  type: Resource
+  text:
+    - Tap to produce 🜄
+    - He who cannot put his thoughts on ice should not enter into the heat of dispute. -Nietzsche
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be of Waterton Lake in Alberta, Canada.  The lake is frozen with chunks of ice frozen to the surface.  The image should show a broad stretch of frozen lake with the mountains in the background.
+    - The entire card, including the image, text and border should look hand air brushed in the style of a Gor drawing like this example.

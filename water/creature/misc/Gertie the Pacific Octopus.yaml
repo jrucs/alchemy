@@ -1,0 +1,21 @@
+card:
+  name: Gertie the Pacific Octopus
+  type: Creature
+  cost: 🜄
+  combat: 2/2
+  text:
+    - Swimming.
+    - Gertie gains +1/+1 for each bridge in play.
+    - I see this arm come out of the water. It was 10, 15 feet in the air.  It looked like an octopus or something like that, and I just took off running. -Douglas Brown of Tacoma, WA
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right followed by a - and the combat.
+    - The background of the card should be blue.
+    - The image should of a giant octopus underwater in the rubble from a bridge.
+    - The entire card, including the image, text and border should realistic in the style of the example image

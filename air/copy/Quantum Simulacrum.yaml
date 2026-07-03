@@ -1,0 +1,20 @@
+card:
+  name: Quantum Simulacrum
+  type: Creature
+  cost: 🜁3
+  combat: X/X
+  text:
+    - Pick a creature.  Simulacrum is a copy of it.
+    - The simple process of eating and breathing weave all of us together into a vast four-dimensional array. No matter how isolated you may sometimes feel, no matter how lonely, you are never really cut off from the whole. ― Rudy Rucker
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right follow by a - and the combat.
+    - The image should be of two identical Romans centurions standing next to each other.  One is shimering with magical energy.
+    - The entire card, the text, background and the image should look hand drawn in the style of the comic Transmetropolitan.  The image should be detailed and intricate, with lots of line work and shading.
+    - The background of the card should be gold.  It should have intricate detail and shading.

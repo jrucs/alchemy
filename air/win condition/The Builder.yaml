@@ -1,0 +1,19 @@
+card:
+  name: The Builder
+  type: Win Condition
+  cost: 2
+  text:
+    - If a player has 30 or more cards in play, they win.
+    - "To us he was Goliath the Consensus Builder." -The Simpsons
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.
+    - The type goes in the bottom right.
+    - The image should be of a vast Roman city with spires stretching far into the sky.
+    - The entire card, the text, background and the image should look hand drawn in the style of a 1980s Battletech manual.  Text should appear from a typewriter.  The image should be detailed and intricate, with lots of line work and shading.
+    - The image should be the background of the card with no distinct border.

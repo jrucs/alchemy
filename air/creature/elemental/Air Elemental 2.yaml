@@ -1,0 +1,26 @@
+card:
+  name: Air Elemental
+  type: Creature
+  cost: 🜁
+  combat: 1/1
+  text:
+    - Flying.  Tap to produce an air token.
+    - With your fragrance in the air, I give my love to the wind. —Rumi
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right follow by a - and the combat.
+    - The background of the card should be yellow.
+    - The image should be of a sexy air elemental.  She's made entirely of air blowing through a meadow.  Elementals don't wear clothes.
+    - The entire card, the text, background and the image should look hand drawn in the style of 1st edition shadowrun.  The image should be detailed and intricate, with lots of line work and shading.  The yellow border of the card should have intricate detail and shading.
+
+
+
+The image should be of a sexy air elemental drawin in the style of 1st edition shadowrun.  She's made entirely of air blowing through a meadow.  Elementals don't wear clothes.
+Replace the quote with:
+With your fragrance in the air, I give my love to the wind. —Rumi

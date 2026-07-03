@@ -1,0 +1,17 @@
+card:
+  name: Krakatoa
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - The ash released was so dense that it blocked out the Sun, lowering global temperatures for five years. It also changed the appearance of sunsets around the world, as seen in many famous paintings like Edvard Munch's The Scream. -BBC
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of Krakatoa erupting in 1883. The eruption was one of the most violent in recorded history, generating massive tsunamis and a global climate impact. The eruption produced a colossal ash cloud that circled the globe, affecting weather patterns and sunsets worldwide.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

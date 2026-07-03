@@ -1,0 +1,21 @@
+card:
+  name: Transcendent Seagull
+  type: Creature
+  cost: 🜁
+  combat: 1/1
+  text:
+    - Flying.
+    - Create an air token when you play this creature.
+    - For a thousand years we have scrabbled after fish heads, but now we have a reason to live - to learn, to discover, to be free! - Johnathan Livingston Seagull
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right follow by a - and the combat.
+    - The image should be of a seagull soaring through the sky with its wings spread wide.  The seagull should have a serene and transcendent expression on its face, as if it is experiencing a moment of enlightenment.  The background should be a beautiful sky with clouds and rays of sunlight shining through.
+    - The entire card, the text, background and the image should look hand drawn in the style of the comic Transmetropolitan.  The image should be detailed and intricate, with lots of line work and shading.
+    - The background of the card should be gold.  It should have intricate detail and shading.

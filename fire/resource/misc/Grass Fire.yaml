@@ -1,0 +1,17 @@
+card:
+  name: Grass Fire
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - Fire risk continues to impact the area with dry, windy conditions and tall grasses. -Amarillo Globe-News
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a grass fire with intense flames and dark smoke billowing into the sky.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

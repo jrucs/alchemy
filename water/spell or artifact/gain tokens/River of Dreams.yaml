@@ -1,0 +1,19 @@
+card:
+  name: River of Dreams
+  type: Spell
+  cost: 🜄X
+  text:
+    - Player gains X life or prevent X damage.
+    - In the middle of the night, I go walking in my sleep, through the valley of fear, to a river so deep. -Billy Joel
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be of a dreamlike river flowering through a surreal landscape under a starry sky.
+    - The entire card, including the image, text, and border, should look hand drawn in the style of an RPG game manual from the 1970s.

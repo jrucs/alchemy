@@ -1,0 +1,18 @@
+card:
+  name: Empathic Hex
+  type: Artifact
+  cost: 2
+  text:
+    - Whenever an object leaves play its owner takes 1 damage.
+    - I never hit a man when he's down... I kick him, it's easier. — Roddy Piper
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be gray.
+    - The image should be of a magical hex hovering in the air over an alpine setting.  It should be a glowing red hexagon with intricate patterns inside it.  The hexagon should have a fiery aura around it, with sparks flying off of it.  The background of the image should be dark and ominous, with shadows and smoke swirling around the hexagon.
+    - The image and card in general should be in a photorealistic style.

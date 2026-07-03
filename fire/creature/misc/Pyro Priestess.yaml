@@ -1,0 +1,21 @@
+card:
+  name: Pyro Priestess
+  type: Creature
+  cost: 2🜂🜂
+  combat: X/X
+  text:
+    - 🜂 +1/+0
+    - X is equal to the number of fire producing resources you control.
+    - She's mad, but she's magic. There's no lie in her fire. -Bukowski
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a fire priestess, standing in front of a blazing inferno.  She is wearing a flowing red robe and has long, wild hair that seems to be made of flames.  Her eyes are glowing with an intense fire, and she is holding a staff that is also engulfed in flames.  The fire around her is swirling and dancing, creating a mesmerizing and dangerous atmosphere.
+    - The image and card in general is in the style of the 1982 Blade Runner comic.

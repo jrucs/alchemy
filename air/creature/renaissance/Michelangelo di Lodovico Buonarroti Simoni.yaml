@@ -1,0 +1,21 @@
+card:
+  name: Michelangelo di Lodovico Buonarroti Simoni
+  type: Creature
+  cost: 🜁🜁
+  combat: 1/1
+  text:
+    - Tap and player shuffles their deck.
+  prompt: 
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black outer border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the top left.
+    - The cost goes in the bottom left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right followed by a - and the combat.
+    - The background of the card should be yellow.
+    - The image should be of Michelangelo di Lodovico Buonarroti Simoni.  He is in a grand hall painting an abstract fresco on the ceiling.
+    - The entire card, the text, background and the image should look hand drawn in the of the comic Transmetropolitan.  The image should be detailed and intricate, with lots of line work and shading.  The yellow area should have intricate shading and designs.
+  notes:
+    - Michelangelo is a Neo-Renaissance Roman replicant.

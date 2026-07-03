@@ -1,0 +1,20 @@
+card:
+  name: Blue Whale
+  type: Creature
+  cost: 🜄🜄6
+  combat: 16/16
+  text:
+    - Swimming.
+    - It's far bigger than even the biggest dinosaur. Its tongue weighs as much as an elephant. Its heart is the size of a car. And some of its blood vessels are so wide that you could swim down them. -Sir David Attenborough
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right followed by a - and the combat.
+    - The background of the card should be blue.
+    - The image should be of a blue whale.  It appears enormous, swimming in front of a futuristic underwater city.  It has magical tribal markings glowing along its body.
+    - The entire card, including the image should look hand drawn in the style of the example image.

@@ -1,0 +1,19 @@
+card:
+  name: Fireball
+  type: Spell
+  cost: 🜂🜂
+  text:
+    - Do 1 damage to a target.  The player damaged may choose to do 1 damage to another target.  The process continues until a player chooses to not do damage.
+    - I didn't ask how big the room is nor is there my party nearby. I said cast fireball! -RGBread on Reddit
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a group of futuristic adventurers in a cave facing off against each other.  Fireballs are attacking them.
+    - The image and card in general is in the style of the 1982 Blade Runner comic and modeled on the example.

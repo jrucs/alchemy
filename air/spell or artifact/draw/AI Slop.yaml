@@ -1,0 +1,20 @@
+card:
+  name: AI Slop
+  type: Artifact
+  cost: 🜁🜁
+  text:
+    - Each player draws an additional card in their draw phase.
+    - Any sufficiently advanced technology is indistinguishable from magic. -Arthur C. Clarke
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right.
+    - The image should be of Shrimp Jesus.
+    - The entire card, the text, background and the image should look hand drawn in the style of a 1980s Battletech manual.  Text should appear from a typewriter.  The image should be detailed and intricate, with lots of line work and shading.
+    - The background of the card should look like it's made of gold.  It should have intricate detail and shading.
+  

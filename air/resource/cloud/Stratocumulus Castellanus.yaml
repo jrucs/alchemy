@@ -1,0 +1,17 @@
+card:
+  name: Stratocumulus Castellanus
+  type: Resource
+  text:
+    - Tap to produce 🜁
+    - Layer of turreted stratocumulus cloud with tower-like formations protruding upwards. -Wikipedia
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.  Size it so it fits the text without leaving too much empty space.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The image should be of a Stratocumulus Castellanus cloud.  Layer of turreted stratocumulus cloud with tower-like formations protruding upwards.
+    - The entire card, including the image, text should look hand painted in the style of Albert Bierstadt.
+    - The outer yellow border of the card should look like a gilded plaster picture frame.

@@ -1,0 +1,8 @@
+card:
+  name: Fire Elemental
+  type: Creature
+  cost: 🜂
+  combat: 1/1
+  text:
+    - Tap to produce a fire token
+    - Build a man a fire, and he'll be warm for a day. Set a man on fire, and he'll be warm for the rest of his life. - Terry Pratchett

@@ -1,0 +1,19 @@
+card:
+  name: Bubble Net
+  type: Spell
+  cost: 🜄
+  text:
+    - Creature gains the ability to block any number of creatures this turn.  It must block all attacking creatures.
+    - Humpback whales teach bubble net feeding as a right of passage. -David Attenborough
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be of a wall of bubbles rising in the ocean.
+    - The entire card, including the image, text and border should look hand drawn in the style of the example.

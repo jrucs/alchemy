@@ -1,0 +1,19 @@
+card:
+  name: Entropic Engine
+  type: Artifact
+  cost: 🜂🜂🜂🜂
+  text:
+    - Destroy a card you control.  Create a fire token.
+    - Messy arrangements far outweigh orderly ones. -Brian Greene
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a magical steampunk machine constructing a ball of fire.  The machine should be made of brass and copper, with gears and pipes all over it.  The ball of fire should be glowing and pulsating, with sparks flying off of it.  The background of the image should be dark and industrial, with smoke and steam swirling around the machine.
+    - The image and card in general is in the style of the 1982 Blade Runner comic.

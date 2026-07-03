@@ -1,0 +1,20 @@
+card:
+  name: Dwarven Pyromancer
+  type: Creature
+  cost: 🜂🜂2
+  combat: 3/3
+  text:
+    - Tap to produce two fire tokens
+    - A mighty flame followeth a tiny spark. -Dante
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a dwarf holding two orbs of fire in his hands.  He has some futuristic elements to his clothing.
+    - The image and card in general is in the style of the 1982 Blade Runner comic.

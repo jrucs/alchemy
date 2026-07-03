@@ -1,0 +1,17 @@
+card:
+  name: Yellowstone Supervolcano
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - Sometimes I think that people have an unhealthy obsession with Yellowstone Caldera. Sure, it is big, powerful and the stuff that disaster movies are made, but in terms of a volcanic system that poses a high threat to life/property in the U.S. on a daily basis, it is relatively low. -Erik Klemetti
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of the Yellowstone Caldera erupting.  Enormous ash clouds are billowing into the sky, with rivers of bright orange lava flowing through a forested landscape.  The scene is dramatic and awe-inspiring.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

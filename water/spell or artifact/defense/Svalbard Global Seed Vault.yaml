@@ -1,0 +1,19 @@
+card:
+  name: Svalbard Global Seed Vault
+  type: Artifact
+  cost: 🜄1
+  text:
+    - 1: prevent a resource from being destroyed.
+    - This Seed Vault represents hope, unity and security. -Stefan Schmitz
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the upper right.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be of the Svalbard Global Seed Vault.
+    - The entire card, including the image, should look hand drawn in the style of an RPG game manual from the 1970s.

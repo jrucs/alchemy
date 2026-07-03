@@ -1,0 +1,22 @@
+card:
+  name: Water Elemental
+  type: Creature
+  cost: 🜄
+  combat: 1/1
+  text:
+    - Swimming.
+    - Tap to produce a water token.
+    - Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. -Bruce Lee
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the bottom left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right followed by a - and the combat.
+    - The background of the card should be blue and look ornate and hand marbled.
+    - The image should be of a sexy female water elemental lounging in a hot spring.  Water elementals are made of water and don't wear clothes.
+    - The image should look drawn in the style of the example image.
+    - All text should be in a gothic hand drawn font.

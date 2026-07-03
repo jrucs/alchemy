@@ -1,0 +1,17 @@
+card:
+  name: Solar Flare
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - If there is a solar flare or a nuclear war, a thousand cans of pickled turnips aren't going to save you. -Sarah Lotz
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a solar flare erupting from the surface of the sun.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

@@ -1,0 +1,8 @@
+card:
+  name: Fire Elemental
+  type: Creature
+  cost: 🜂
+  combat: 1/1
+  text:
+    - Tap to produce a fire token
+    - Everyone has a little secret he keeps.  I light the fires while the city sleeps. -MC 900 Ft Jesus

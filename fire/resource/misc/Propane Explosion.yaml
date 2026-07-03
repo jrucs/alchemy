@@ -1,0 +1,17 @@
+card:
+  name: Propane Explosion
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - Propane may be a clean burning fuel, but she can also be a dirty girl. -Hank Hill
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a propane explosion. Flames and smoke billow out from a ruptured propane tank, with intense orange and yellow hues lighting up the surrounding area. The scene captures the raw power and danger of propane as a fuel source.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

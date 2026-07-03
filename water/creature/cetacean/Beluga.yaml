@@ -1,0 +1,21 @@
+card:
+  name: Beluga
+  type: Creature
+  cost: 🜄🜄2
+  combat: 8/8
+  text:
+    - Swimming.
+    - When belugas are in hunt mode, they display short bursts of speed and rapid direction changes using echolocation for orientation and capture of prey. -WWF
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the bottom left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right followed by a - and the combat.
+    - The background of the card should be blue.
+    - The image should be of a beluga whale. It's breached out of the water into the air. The beluga has futuristic weapons attached to it.
+    - The image should look hand drawn in the style of the example image.
+    - The text and border should look hand drawn and ornate in the style of a fantasy airbrushed Gor illustration from the 1980s.

@@ -1,0 +1,19 @@
+card:
+  name: Marianas Fortress
+  type: Artifact
+  cost: 🜄🜄2
+  text:
+    - Creatures without swimming cannot attack you.
+    - It's like a koala bear crapped a rainbow in my brain. -Sealab 2021
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the upper right.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be modeled on the Hanna Barbara cartoon Sealab, showing an underwater station.  That should be at the bottom of an underwater trench.
+    - The image should look hand drawn in the style of an RPG game manual from the 1970s.

@@ -1,0 +1,8 @@
+card:
+  name: Fire Elemental
+  type: Creature
+  cost: 🜂
+  combat: 1/1
+  text:
+    - Tap to produce a fire token
+    - The roof, the roof, the roof is on fire.  We don't need no water, let the motherfucker burn.  Burn motherfucker, burn. -Bloodhoung Gang

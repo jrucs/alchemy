@@ -1,0 +1,17 @@
+card:
+  name: Flaming Geyser
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - Lawson observed gas and saltwater “bubbling furiously” out of the hole. He ignited the gas and it burned, with a flame from 5 inches to three feet in height. -Washington State Parks
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of flaming geyser state park in Washington.  It is a small flame of fire that shoots out of the ground.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

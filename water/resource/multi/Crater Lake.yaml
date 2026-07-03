@@ -1,0 +1,17 @@
+card:
+  name: Crater Lake
+  type: Resource
+  text:
+    - Tap to create a 🜂 or 🜄.
+    - In wilderness I sense the miracle of life, and behind it our scientific accomplishments fade to trivia. - Charles Lindbergh
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.  Size it so it fits the text without leaving too much empty space.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be of Crater Lake in Oregon, showing the deep blue water of the lake surrounded by the steep caldera walls, with Wizard Island visible in the distance under a partly cloudy sky.
+    - The entire card, including the image, text and border should look hand drawn in the style of the example image.

@@ -1,0 +1,17 @@
+card:
+  name: Grease Fire
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - Every year, thousands of Americans decide to fry a bird for Thanksgiving, and every year, someone out there turns their turkey into a weaponized fireball. -Colorado Springs Fire Department
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a grease fire, with flames and smoke coming from a deep fryer with a turkey in it.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

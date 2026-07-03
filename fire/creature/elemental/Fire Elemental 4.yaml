@@ -1,0 +1,8 @@
+card:
+  name: Fire Elemental
+  type: Creature
+  cost: 🜂
+  combat: 1/1
+  text:
+    - Tap to produce a fire token
+    - What is it that breathes fire into the equations and makes a universe for them to describe? -Stephen Hawking

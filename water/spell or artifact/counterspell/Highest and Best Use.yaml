@@ -1,0 +1,21 @@
+card:
+  name: Highest and Best Use
+  type: Spell
+  cost: 🜄🜄
+  text:
+    - Counter a spell.  Caster gains Earth tokens equal to that spell's cost.
+    - Every gun that is made, every warship launched, every rocket fired signifies, in the final sense, a theft from those who hunger and are not fed, those who are cold and are not clothed. -Dwight D. Eisenhower
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be blue with ornate designs.
+    - The image should be of a mage casting a spell and then it turning into earth toned tokens.
+    - The entire card, including the image should look hand drawn in the style of an RPG game manual from the 1970s.
+    - The font of the text should look hand drawn in a fantasy style.
+  

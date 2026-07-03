@@ -1,0 +1,17 @@
+card:
+  name: Mount St Helens
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - I'm going to stay right here. -Harry Randall Truman
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be Mt St Helens erupting in 1980. On May 18, 1980, at 8:32 a.m., a massive debris avalanche triggered by a magnitude 5.1 earthquake caused the entire north face of Mount St. Helens to slide away, creating the largest landslide in recorded history. This was followed by a powerful lateral blast that devastated an area of about 230 square miles (600 square kilometers), flattening forests and obliterating everything in its path. The eruption also produced a towering ash plume that reached heights of up to 80,000 feet (24,000 meters), spreading ash across several states and causing widespread disruption.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

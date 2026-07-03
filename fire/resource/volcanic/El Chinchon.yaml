@@ -1,0 +1,17 @@
+card:
+  name: El Chinchon
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - The El Chichon volcano in the state of Chiapas, Mexico, had long been assumed to be dormant, having not had a recorded eruption in over 600 years. However, in the first few months of 1982, it soon became obvious that this was not the case. -BBC
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of the El Chinchon volcano erupting in Chiapas, Mexico, with lava flowing and smoke billowing into the sky.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

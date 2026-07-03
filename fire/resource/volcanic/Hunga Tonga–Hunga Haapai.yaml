@@ -1,0 +1,17 @@
+card:
+  name: Hunga Tonga–Hunga Haapai
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - The latest eruption ripped the whole island apart, generating a huge plume of ash that reached 20 km in the sky and led to a massive tsunami across the Pacific Ocean. -BBC
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of the Hunga Tonga–Hunga Haapai eruption, with a large plume of ash rising into the sky and the ocean in the foreground.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

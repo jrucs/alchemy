@@ -1,0 +1,17 @@
+card:
+  name: Floating City
+  type: Resource
+  text:
+    - Any player who plays a resource takes 1 damage.
+    - It is one of the most interesting metropolises in the galaxy -Spock
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The image should be of a floating city, a futuristic metropolis suspended in the sky with intricate architecture and glowing lights.  It should be dynamic and intense, with lots of movement and energy.
+    - The entire card, the text, background and the image should look hand drawn in the style of the comic Transmetropolitan.  The image should be detailed and intricate, with lots of line work and shading.
+    - The background of the card should be yellow.  It should have intricate detail and shading.

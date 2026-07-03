@@ -1,0 +1,19 @@
+card:
+  name: Tesla Coil
+  type: Artifact
+  cost: 🜂🜂
+  text:
+    - 🜂🜂 Player must discard a card.
+    - We wind a simple ring of iron with coils; we establish the connections to the generator, and with wonder and delight we note the effects of strange forces which we bring into play, which allow us to transform, to transmit and direct energy at will. -Nikola Tesla
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a Tesla coil emitting electrical discharges in a dark.  It's as tall as a building and surrounded by a stormy sky.
+    - The image and card in general is in the style of the 1982 Blade Runner comic.

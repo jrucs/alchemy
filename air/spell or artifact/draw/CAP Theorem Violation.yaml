@@ -1,0 +1,19 @@
+card:
+  name: CAP Theorem Violation
+  type: Spell
+  cost: 🜁🜁2
+  text:
+    - Each player discards their hand.  They draw a new full hand.
+    - "The CAP theorem states that in the presence of a network partition, one has to choose between consistency and availability. In other words, you can have two out of the three, but not all three: Consistency, Availability, and Partition Tolerance. - Eric Brewer"
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right.
+    - The background of the card should be yellow.
+    - The image should be of the CAP theorem represented as a Venn diagram with three circles labeled Consistency, Availability, and Partition Tolerance.  The area where all three circles overlap is crossed out with a red X.
+    - The entire card, the text, background and the image should look drawn in the style of the example image.

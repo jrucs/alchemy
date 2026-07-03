@@ -1,0 +1,20 @@
+card:
+  name: Steampunk Paladin
+  type: Creature
+  cost: 🜁🜁
+  combat: 1/2
+  text:
+    - Tap to move an artifact to another object.  Treat it as if it were just cast.
+    - The present is theirs; the future, for which I have really worked, is mine. - Nikola Tesla
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right followed by a - and the combat.
+    - The background of the card should be yellow.
+    - The image should be of a Nikola Tesla as a steampunk paladin.  He is wearing a suit of gleaming brass armor with intricate gears and cogs.  He has a long flowing cape and a helmet with a plume of smoke coming out of it.  He is holding a large hammer that crackles with electricity.  The image should be dynamic and full of energy, capturing the intensity of Tesla's inventions.
+    - The entire card, the text, background and the image should look hand drawn in the of the comic Transmetropolitan.  The image should be detailed and intricate, with lots of line work and shading.

@@ -1,0 +1,21 @@
+card:
+  name: Gladitorius Gladius Roboticus
+  type: Creature
+  cost: 🜁🜁🜁4
+  combat: 10/4
+  text:
+    - Il mondo è come un'arena di gladiatori, in cui la vita lotta contro se stessa. -Seneca
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the top left.
+    - The cost goes in the bottom left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right follow by a - and the combat.
+    - The background of the card should be yellow.
+    - The image should be of giant fighting robot gladiator reminiscent of the mechs in 1980s BattleTech.  It has a glowing energy gladius and a shield made of pure light.
+    - The entire card, the text, background and the image should look hand drawn in the of the comic Transmetropolitan.  The image should be detailed and intricate, with lots of line work and shading.
+    - The yellow border of the card should have intricate detail, designs and shading.
+

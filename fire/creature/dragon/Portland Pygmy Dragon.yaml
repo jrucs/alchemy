@@ -1,0 +1,21 @@
+card:
+  name: Portland Pygmy Dragon
+  type: Creature
+  cost: 🜂🜂
+  combat: 2/2
+  text:
+    - Flying
+    - 🜂 +1/+0
+    - "I'm going to ask you just one more time: and it's local? - Portlandia"
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a red dragon perched on a bridge in a futuristic Portland.
+    - The entire card, including the image should look hand drawn in style of the 1982 Blade Runner comic.  Use the reference image for style guidance.

@@ -1,0 +1,19 @@
+card:
+  name: Apprentice Dwarven Armorer
+  type: Creature
+  cost: 🜂
+  combat: 1/1
+  text:
+    - Tap to give a dwarf +3/+3 until end of turn.
+    - A grinder and paint makes a welder what he ain't -Anonymous
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a dwarf with wraparound sunglasses using a TIG welder to make armor.  Energy drinks and armor in progress are in the background.  There's a pinup poster of a sexy fire elemental in the background.

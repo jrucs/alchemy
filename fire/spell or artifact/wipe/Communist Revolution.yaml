@@ -1,0 +1,19 @@
+card:
+  name: Communist Revolution
+  type: Spell
+  cost: 🜂1
+  text:
+    - The player with the fewest resources keeps those.  Other players must destroy resources to equalize the number remaining.  The same happens with artifacts, creatures, cards in hand and tokens.
+    - From each according to his ability, to each according to his need. -Karl Marx
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be a futuristic play on a Soviet Socialist Realism propaganda poster.  Make sure the image covers the entire card.
+    - The image and card in general is in the style of Soviet Socialist Realism propaganda posters with a layout based on the example.

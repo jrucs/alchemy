@@ -1,0 +1,19 @@
+card:
+  name: The Revolution of Lowered Expectations
+  type: Artifact
+  cost: 🜄2
+  text:
+    - Resources do not untap during the untap phase.
+    - "The Revolution of Lowered Expectations was based on the idea that there wasn’t enough energy to provide for the rising expectations of the masses. Year after year the message was broadcast: There Isn’t Enough. The masses were taught that Terra is a closed system, that entropy was increasing, that life was a losing proposition all round, and that majority were doomed to poverty, starvation, disease, misery and stupidity. -Robert Anton Wilson"
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be a thermodynamics diagram depicting the 2nd law of thermodynamics.
+    - The entire card, including the image, text, and border, should look hand drawn in the style of an RPG game manual from the 1970s.

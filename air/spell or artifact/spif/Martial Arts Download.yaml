@@ -1,0 +1,20 @@
+card:
+  name: Martial Arts Download
+  type: Artifact
+  cost: 🜁
+  text:
+    - Creature gains +1/+1.
+    - Create an air token.
+    - "I know kung fu." -The Matrix
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be yellow.
+    - The image should be of Bruce Lee in a fighting stance.  He's standing in a traditional japanese dojo, with wooden floors and paper walls.  He's wearing his iconic yellow jumpsuit with black stripes.  He's looking directly at the viewer with a fierce expression on his face.  His muscles are tense and he's ready to strike.  The image should be dynamic and full of energy, capturing the intensity of martial arts.
+    - The entire card, the text, background and the image should look hand drawn in the of the comic Transmetropolitan.  The image should be detailed and intricate, with lots of line work and shading.

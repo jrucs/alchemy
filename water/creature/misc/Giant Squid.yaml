@@ -1,0 +1,21 @@
+card:
+  name: Giant Squid
+  type: Creature
+  cost: 🜄🜄🜄
+  combat: 6/6
+  text:
+    - Swimming.
+    - Tap to destroy a Cetacean.
+    - With a low sucking sound it slowly disappeared again. Starbuck with a wild voice exclaimed, 'Almost rather had I seen Moby Dick and fought him, than to have seen thee, thou white ghost!' -Moby Dick
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right followed by a - and the combat.
+    - The background of the card should be blue.
+    - The image should of a giant squid deep in the ocean.
+    - The entire card, including the image, text and border should look drawn in the style of 1980s airbrushed fantasy art.

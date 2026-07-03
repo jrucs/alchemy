@@ -1,0 +1,20 @@
+card:
+  name: Dwarven Fireman
+  type: Creature
+  cost: 🜂🜂
+  combat: 1/2
+  text:
+    - If a player is damaged by Fireman they must discard a card.
+    - A book is a loaded gun in the house next door...Who knows who might be the target of the well-read man? -Ray Bradbury, Fahrenheit 451
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of futuristic Dwarven fireman wielding a flamethrower in a library.
+    - The image and card in general is in the style of the 1982 Blade Runner comic.

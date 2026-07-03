@@ -1,0 +1,23 @@
+card:
+  name: Elder Dragon Highlander
+  type: Creature
+  cost: 🜂🜂8
+  combat: 10/10
+  text:
+    - Flying
+    - 🜂 +1/+0
+    - Tap Elder Dragon Highlander to have him duel a creature of your choice.
+    - From the dawn of time we came; moving silently down through the centuries. -Highlander
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a dragon soaring over the scottish highlands.  The dragon should be large and majestic, with scales that shimmer in the sunlight.  The highlands should be lush and green, with rolling hills and a clear blue sky.
+    - The image should take up the entire card except for the areas reserved for the name, cost, and type.
+    - The entire card, including the image should look hand drawn in style of the 1982 Blade Runner comic.  Use the reference image for style guidance.

@@ -1,0 +1,23 @@
+card:
+  name: Barnacle Collective
+  type: Creature
+  cost: 🜄🜄1
+  combat: 0/6
+  text:
+    - Swimming.
+    - Barnacle Collective cannot attack.
+    - 🜄 - +1/+0 until end of turn.
+    - Damage done to you is redirected to Barnacle Collective.
+    - I hate a barnacle as no man ever did before. -Charles Darwin
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right followed by a - and the combat.
+    - The background of the card should be blue.
+    - The image should of barnacles stuck to rocks underwater.  Technological devices connect them together, allowing them to share nutrients and information.  The barnacles should look like they are working together as a collective, with some of them communicating with each other through the technological devices.  The image should convey a sense of unity and cooperation among the barnacles.
+    - The entire card, including the image, text and border should look hand drawn in the style of the example image.

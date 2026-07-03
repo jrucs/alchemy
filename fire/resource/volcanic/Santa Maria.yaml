@@ -1,0 +1,17 @@
+card:
+  name: Santa Maria
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - The eruption lasted 19 days and volcanic ash clouds were so intense that areas up to 160 km from the volcano were thrown into total darkness for 53 hours. Ash clouds even fell on San Fransico, USA, 4,000km away. -BBC
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of Santa Maria erupting in 1902. The eruption of Santa Maria in Guatemala in 1902 was one of the most significant volcanic events of the 20th century. It began on October 24, 1902, and lasted for several months, with the most intense activity occurring in the first few weeks. The eruption produced a massive ash cloud that reached heights of up to 28 kilometers (17 miles) and released an estimated 5 cubic kilometers (1.2 cubic miles) of material. The eruption caused widespread devastation, including the destruction of nearby villages, the displacement of thousands of people, and significant loss of life. The ash cloud also had a global impact, affecting weather patterns and leading to cooler temperatures worldwide for several years following the eruption.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

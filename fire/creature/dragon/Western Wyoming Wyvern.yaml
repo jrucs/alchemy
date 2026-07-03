@@ -1,0 +1,22 @@
+card:
+  name: Western Wyoming Wyvern
+  type: Creature
+  cost: 🜂🜂6
+  combat: 8/8
+  text:
+    - Flying
+    - 🜂 +1/+0
+    - Consume a dragon rider you control to give this creature +4/+4 until end of turn.
+    - You may be a little cold some nights on mountain tops above the timber-line, but you will see the stars, and by and by you can sleep enough in your town bed. or at least in your grave. Keep awake while you may in mountain mansions so rare. ―John Muir, Yellowstone National Park
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a giant red dragon walking through the painted pots in Yellowstone National Park.
+    - The entire card, including the image should look hand drawn in style of the 1982 Blade Runner comic.  Use the reference image for style guidance.

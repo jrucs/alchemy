@@ -1,0 +1,17 @@
+card:
+  name: Volcanic Bomb
+  type: Resource
+  text:
+    - Tap to create a 🜂 or 🜃
+    - Many bombs acquire rounded aerodynamic shapes during their travel through the air. Volcanic bombs include breadcrust bombs, ribbon bombs, spindle bombs (with twisted ends), spheroidal bombs, and 'cow-dung' bombs. Volcanic blocks commonly consist of solidified pieces of old lava flows that were part of a volcano's cone. -USGS
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a volcanic bomb (https://en.wikipedia.org/wiki/Volcanic_bomb) shooting through the sky with a fiery trail behind it.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

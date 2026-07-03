@@ -1,0 +1,21 @@
+card:
+  name: Garbage Gyre Emergence
+  type: Creature
+  cost: 🜄🜄
+  combat: X/X
+  text:
+    - Swimming.
+    - X is equal to the number of cards in every player's discard pile.
+    - Intelligence is an emergent property of complex systems. -Anonymous
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right followed by a - and the combat.
+    - The background of the card should be blue.
+    - The image should of a giant garbage gyre in the pacific ocean.  It has tentacles of mechanical garbage rising from it, with a neural network pattern and magic auras overlaying it.  The perspective is from far above it.
+    - The image and blue background should closely follow the style of the example image.  The text should look hand drawn in a gothic font.

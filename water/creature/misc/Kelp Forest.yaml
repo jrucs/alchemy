@@ -1,0 +1,23 @@
+card:
+  name: Kelp Forest
+  type: Creature
+  cost: 🜄🜄1
+  combat: 0/6
+  text:
+    - Swimming.
+    - Kelp Forest cannot attack.
+    - A creature blocked by Kelp Forest does not untap normally the following turn.
+    - Damage done to you is redirected to Kelp Forest.
+    - The number of living creatures of all orders, whose existence intimately depends on the kelp is wonderful. A great volume might be written, describing the inhabitants of one of these beds of seaweed. -Darwin
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right followed by a - and the combat.
+    - The background of the card should be blue.
+    - The image should be of green kelp forest in a shallow sea.
+    - The entire card, including the image, text and border should look drawn in the style of the example image.

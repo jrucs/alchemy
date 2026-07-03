@@ -1,0 +1,20 @@
+card:
+  name: Dwarven Rocketeer
+  type: Creature
+  cost: 🜂🜂
+  combat: 2/1
+  text:
+    - 🜂 gains flying until end of turn.
+    - The German prototype had the same problem as our first design. The combustion chamber would overheat and explode. -The Rocketeer
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a dwarf with a rocket pack on his back, flying through the air in the clouds.  He should be wearing a helmet and goggles, holding a battle axe.  He has a determined expression on his face.  The rocket pack should be emitting flames and smoke as he flies.
+    - The image and card in general is in the style of the 1982 Blade Runner comic like the example image.

@@ -1,0 +1,17 @@
+card:
+  name: Tambora
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - Large stones rained down on the surrounding areas, and whirlwinds generated from the sheer force of the volcano destroyed nearby villages.  -BBC
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of Mount Tambora erupting in 1815. The eruption was one of the most powerful in recorded history, causing the "Year Without a Summer" due to the massive amount of volcanic ash and gases released into the atmosphere, which led to global climate anomalies.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

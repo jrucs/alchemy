@@ -1,0 +1,19 @@
+card:
+  name: Standing Wave
+  type: Artifact
+  cost: 🜄🜄2
+  text:
+    - Swimming creatures you control may block flying creatures.
+    - When we look at the ocean, we see that each wave has a beginning and an end... But if we look more deeply, we see that a wave is made of water. While living the life of a wave, the wave also lives the life of water. -Thich Nhat Hanh
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the upper right.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be of a standing wave in the ocean with a whale riding at the top of it.
+    - The entire card, including the  should look hand drawn in the style of an RPG game manual from the 1970s.

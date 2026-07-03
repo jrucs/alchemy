@@ -1,0 +1,25 @@
+card:
+  name: Goth Girl
+  type: Creature
+  cost: 🜂🜂1
+  combat: 1/2
+  text:
+    - Tap to destroy a tapped creature.
+    - It doesn't matter if we all die. -The Cure
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a goth girl.  She's wearing a leather harness top and bottom with a jacket over that.
+    - She has thigh high boots.  She is extremely voluptuous.  The background is futuristic with flames.
+    - Be sure to give her a cape and fishnets.  The boots should have garters.
+    - She should have more black makeup and be extremely pale.
+    - Her hand is raised conjuring a spell.
+    - Make sure the garters and bottom are all connectected to the top as part of one bodysuit made entirely out of leather straps.
+    - The image and card in general is in the style of the 1982 Blade Runner comic.

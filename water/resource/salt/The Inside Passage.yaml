@@ -1,0 +1,17 @@
+card:
+  name: The Inside Passage
+  type: Resource
+  text:
+    - Tap to produce 🜄
+    - This web of waterways known as Alaska's Inside Passage runs from Seattle to the southeastern Alaska panhandle. It's a common network for ships, as it offers protected, smooth-as-glass sailing. It's one of the few routes in the world with water deep enough for cruise ships to sidle up to cliffs. -Holland America
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be of a humpback whale.  It appears enormous, swimming in front of a futuristic underwater city.  The whale has colorful futuristic patterns on its body.  It is surrounded by a magical aura.
+    - The entire card, including the image, text and border should look hand drawn in the style of a 1970s RPG manual.

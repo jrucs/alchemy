@@ -1,0 +1,21 @@
+card:
+  name: Spartacus Liberator Invictus
+  type: Creature
+  cost: 🜁2
+  combat: 3/3
+  text:
+    - Flying.
+    - Tap to destroy a Roman.
+    - I am Spartacus. -Spartacus
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right followed by a - and the combat.
+    - The background of the card should be yellow.
+    - The image should be of Spartacus as a giant fighting robot.
+    - The entire card, the text, background and the image should look hand drawn in the style of 1980s Battletech.  The image should be detailed and intricate, with lots of line work and shading.

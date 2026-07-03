@@ -30,6 +30,7 @@ Symbols and colors for resources follow the [alchemical symbols](https://en.wiki
 Alchemy extends JRUCS base types:
 
 * Object
+  * Creature
   * Resource
   * Artifact
     * Win Condition

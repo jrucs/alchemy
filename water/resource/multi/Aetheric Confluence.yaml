@@ -1,0 +1,17 @@
+card:
+  name: Aetheric Confluence
+  type: Resource
+  text:
+    - Tap to create a  🜁, 🜂, 🜄 or 🜃.  You take 1 damage.
+    - Once possession has been confirmed, a local factsmith should be called to prevent epistemological collapse. -Dresden Kodak
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be white.
+    - The image should be of a confluence of the four classical elements.  It should look like a hand drawn alchemical illustration.  The four elements are represented as a swirling vortex of energy, with each element taking on its own distinct color and form.  The air is depicted as a swirling mass of clouds and lightning, the fire is a blazing inferno, the water is a crashing wave, and the earth is a solid mountain.  The entire scene is surrounded by a magical aura, with intricate symbols and runes etched into the background.
+    - The entire card, including the image should look hand drawn in the style of a Leonardo da Vinci sketch.

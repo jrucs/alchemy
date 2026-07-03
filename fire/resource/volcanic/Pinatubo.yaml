@@ -1,0 +1,17 @@
+card:
+  name: Pinatubo
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - In mid-June 1991, a series of increasingly large eruptions unleashed huge columns of ash as well as dangerous pyroclastic flows and deadly hot mudslides over an area of hundreds of kilometres. -BBC
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of Pinatubo erupting in 1991. The eruption of Mount Pinatubo in the Philippines in June 1991 was one of the largest volcanic eruptions of the 20th century. It produced a massive ash cloud that reached heights of up to 35 kilometers (22 miles) and released an estimated 10 cubic kilometers (2.4 cubic miles) of material. The eruption caused widespread devastation, including the destruction of thousands of homes, the displacement of tens of thousands of people, and significant loss of life. The ash cloud also had a global impact, leading to a temporary cooling of the Earth's surface and affecting weather patterns worldwide.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

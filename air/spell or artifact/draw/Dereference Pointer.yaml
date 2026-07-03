@@ -1,0 +1,19 @@
+card:
+  name: Dereference Pointer
+  type: Spell
+  cost: 🜁1
+  text:
+    - Search your deck for a card, place it in your hand and shuffle.
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right.
+    - The background of the card should be yellow.
+    - The image should be of a pointer being dereferenced.
+    - The entire card, the text, background and the image should look computer rendered in Bryce3D.
+    - The yellow border of the card should have intricate detail, designs, computer symbols, code and shading.

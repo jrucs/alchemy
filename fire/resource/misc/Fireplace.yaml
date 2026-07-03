@@ -1,0 +1,17 @@
+card:
+  name: Fireplace
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - I have a fireplace in my kitchen that I light every night, no matter what. -Alice Waters
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a cozy fireplace with flames gently flickering, casting a warm glow in a rustic living room setting. The scene captures the comforting and inviting atmosphere of a fireplace in a home.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

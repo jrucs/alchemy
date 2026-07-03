@@ -1,0 +1,19 @@
+card:
+  name: Alchemical Piracy
+  type: Spell
+  cost: 🜁🜁
+  text:
+    - Copy a spell as it is cast.
+    - The world is magic. Science is but an insipid style of sorcery. ― Rudy Rucker
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right.
+    - The image should be of a magical spell splitting into two identical spells, with intricate line work and shading to show the magical energy emanating from the spell.  The image should be detailed and intricate, with lots of line work and shading.
+    - The entire card, the text, background and the image should look hand drawn in the style of the comic Transmetropolitan.  The image should be detailed and intricate, with lots of line work and shading.
+    - The background of the card should be gold.  It should have intricate detail and shading.

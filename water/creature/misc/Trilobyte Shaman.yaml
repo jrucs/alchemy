@@ -1,0 +1,22 @@
+card:
+  name: Trilobyte Shaman
+  type: Creature
+  cost: 🜄
+  combat: 0/2
+  text:
+    - Swimming.
+    - Tap to prevent a creature from being destroyed.
+    - "Trilobites survived for a total of three hundred million years, almost the whole duration of the Palaeozoic era: who are we johnny-come-latelies to label them as either ‘primitive’ or ‘unsuccessful’? Men have so far survived half a per cent as long. -Richard Fortey"
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right followed by a - and the combat.
+    - The background of the card should be blue.
+    - The image should be of a trilobyte floating in the ocean surrounded by a glowing magical sphere.  Alient symbols and magical runes drift around the sphere, out to the edge of the card.
+    - The image should look like photo realistic models in the style of the example image.  It should spread across the entire card, integrated with the text.
+    - The text and border should look very hand drawn.

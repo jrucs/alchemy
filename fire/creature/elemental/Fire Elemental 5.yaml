@@ -1,0 +1,8 @@
+card:
+  name: Fire Elemental
+  type: Creature
+  cost: 🜂
+  combat: 1/1
+  text:
+    - Tap to produce a fire token
+    - The raindrops hiss like a devilish choir, dying in the flames with a terrible sound. -MC 900 Ft Jesus

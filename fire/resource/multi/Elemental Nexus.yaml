@@ -1,0 +1,18 @@
+card:
+  name: Elemental Nexus
+  type: Resource
+  text:
+    - Tap to create a  🜁, 🜂, 🜄 or 🜃.  You take 1 damage.
+    - When a situation gets so bad that no solution seems possible there is left only murder and suicide, or both. -Henry Miller, Nexus
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be parchment colored, matching the style of a Leonardo da Vinci sketch.
+    - "Be sure to use the alchemical symbols specified: 🜁, 🜂, 🜄 or 🜃"
+    - "The image should be of an elemental nexus, a mystical convergence of the four classical elements: fire, water, air, and earth, swirling together in a chaotic yet harmonious dance. Each element should be represented vividly, with fire blazing, water flowing, air swirling, and earth solidifying. The nexus should emit a radiant glow, illuminating the surrounding space."
+    - The entire card, including the image should look hand draw in the style of a leonardo da vinci sketch.

@@ -1,0 +1,19 @@
+card:
+  name: Bubble Universe
+  type: Artifact
+  cost: 🜁🜁1
+  text:
+    - Copy a resource.
+    - "An understanding of the infinite tree of universes seems to be needed in order to make statistical predictions about the properties of our own universe. -Alan Guth"
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right.
+    - The image should be of a bubble universe, which is a theoretical concept in cosmology that suggests that our universe is just one of many universes that exist in a larger multiverse.  The image should be detailed and intricate, with lots of line work and shading.
+    - The entire card, the text, background and the image should look hand drawn in the style of the comic Transmetropolitan.  The image should be detailed and intricate, with lots of line work and shading.
+    - The background of the card should be gold.  It should have intricate detail and shading.

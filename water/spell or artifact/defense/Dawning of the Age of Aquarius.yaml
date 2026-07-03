@@ -1,0 +1,20 @@
+card:
+  name: Dawning of the Age of Aquarius
+  type: Spell
+  cost: 🜄
+  text:
+    - Choose one card.  Instead of doing damage, you to gain 1 water token for each damage it would do to you.
+    - When the moon is in the Seventh House and Jupiter aligns with Mars then peace will guide the planets and love will steer the stars. -The 5th Dimension
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be Aquarius, the water bearer, pouring water from a jug in the sky.
+    - The entire card, including the image, should look hand drawn in the style of an RPG game manual from the 1970s.
+  

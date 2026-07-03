@@ -1,0 +1,19 @@
+card:
+  name: Spontaneous Uncontrolled Genesis
+  type: Spell
+  cost: 🜄🜄
+  text:
+    - This spell is a copy of a creature you choose.  It has flying.  It's destroyed at the end of the turn.
+    - And the rest, after a sudden wet thud, was silence. -Douglas Adams
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be a whale in the sky, surrounded by clouds.
+    - The entire card, including the image, text, and border, should look hand painted in the style of Gor art from the 80s.

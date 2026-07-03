@@ -1,0 +1,21 @@
+card:
+  name: Jellyfish Monk
+  type: Creature
+  cost: 🜄🜄1
+  combat: 1/1
+  text:
+    - Swimming.
+    - Cetaceans gain +1/+1 while Jellyfish Monk is in play.
+    - Current-borne, wave-flung, tugged hugely by the whole might of ocean, the jellyfish drifts in the tidal abyss. The light shines through it, and the dark enters it. -Ursula K. Le Guin
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right followed by a - and the combat.
+    - The background of the card should be blue.
+    - The image should be of a very colorful man of war jellyfish.  Magical auras emanate from the jellyfish.
+    - The entire card, including the image should look hand drawn in the style of the example image.

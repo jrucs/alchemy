@@ -1,0 +1,20 @@
+card:
+  name: Higher Dimensional Embedding
+  type: Spell
+  cost: 🜁🜁2
+  text:
+    - Each player picks a new full hand from their deck and hand.  Shuffle.
+    - A day, whether six or seven ago, or more than six thousand years ago, is just as near to the present as yesterday. Why? Because all time is contained in the present Now-moment. ― Rudy Rucker
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right.
+    - The image should be of kernel embedding.
+    - The entire card, the text, background and the image should look computer rendered in Bryce3D.
+    - The background of the card should look like it's made of gold.  It should have intricate detail and shading.
+  

@@ -1,0 +1,18 @@
+card:
+  name: Salton Sea
+  type: Resource
+  text:
+    - Tap to produce 🜄
+    - So that's where I found myself. No, I should choose my words more wisely. This is the world I sought out. The land of the perpetual night party. Day swallowing night and night swallowing day. -The Salton Sea
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - Be sure to use an upside down triangle after the word produce.
+    - The image should be of the Salton Sea in California, showing the vast, shallow lake with its stark, desert surroundings, and the hazy, sun-bleached sky above. The shoreline should appear cracked and dry in places, with the water reflecting the muted tones of the sky.
+    - The entire card, including the image, text and border should look hand drawn in the style of a 1970s RPG manual.

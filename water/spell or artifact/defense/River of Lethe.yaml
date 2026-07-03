@@ -1,0 +1,19 @@
+card:
+  name: River of Lethe
+  type: Spell
+  cost: 🜄
+  text:
+    - Untap all attacking creatures.  They neither deal nor receive combat damage this turn.
+    - No, no, go not to Lethe, neither twist / Wolf's-bane, tight-rooted, for its poisonous wine. -Keats
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be of the river Lethe.
+    - The entire card, including the  should look hand drawn in the style of an RPG game manual from the 1970s.

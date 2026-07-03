@@ -1,0 +1,23 @@
+card:
+  name: Hells Angels
+  type: Creature
+  cost: 🜂🜂
+  combat: X/X
+  text:
+    - Flying
+    - X is equal to the number of Hells Angels in play.
+    - There is not much mental distance between a feeling of having been screwed and the ethic of total retaliation, or at least the kind of random revenge that comes with outraging the public decency. ―Hunter S. Thompson, Hell's Angels
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a fiery hoverbike ridden by a Hells Angel, soaring through a blazing sky in a futuristic city.
+    - The hoverbike is a futuristic bike. The Hells Angel should be wearing a vest, showing his muscular arms.
+    - The signage should use asian and alien characters.  His bike should have a lance on it.
+    - The style of the artwork should be the same as the reference image.

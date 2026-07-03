@@ -1,0 +1,17 @@
+card:
+  name: Mauna Loa
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - On April 26 restless Mauna Loa had rumbled into new activity, hurling tons of molten rock into the Pacific sky. Two days later, fountains of lava spouted from two fissures in the moutain-side, a few thousand feet below the summit. Like red snakes, twin lava rivers coiled down Mauna Loa’s skirts, piling up great ramparts of hot rock, firing forests, imperiling the city and harbour of Hilo, and threatening to dam its water supply. -Life, June 1942
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of Mauna Loa erupting. Twin lava rivers coiled down Mauna Loa’s skirts, piling up great ramparts of hot rock, firing forests, imperiling the city and harbour of Hilo, and threatening to dam its water supply.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

@@ -1,0 +1,20 @@
+card:
+  name: Benevolent Infovore
+  type: Creature
+  cost: 🜁
+  combat: 1/1
+  text:
+    - 🜁 All players draw a card.
+    - Entertain us and we will give you what you want. -Charlie Stross
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right follow by a - and the combat.
+    - The background of the card should be yellow.
+    - The image should be of a gigantic spaceship that is a mix of 1980s sci fi and magical force fields with tentacles reaching out of it.
+    - The entire card, the text, background and the image should look hand drawn in the of the comic Transmetropolitan.  The image should be detailed and intricate, with lots of line work and shading.  The yellow border of the card should have intricate detail and shading.

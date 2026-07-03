@@ -1,0 +1,17 @@
+card:
+  name: Sky Pond
+  type: Resource
+  text:
+    - Tap to produce 🜄
+    - "Under the rough and ridiculous circumstances of life in the Rocky Mountains there was something exciting and vital, full of rude poetry: the heartbeat of the West as it fought its way upward toward civilization. -Wallace Stegner"
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be of Sky Pond, a high alpine lake in Rocky Mountain National Park, surrounded by jagged peaks and pine trees, with a clear blue sky reflecting on the water's surface.
+    - The entire card, including the image, text and border should look hand air brushed in the style of a Gor drawing like this example.

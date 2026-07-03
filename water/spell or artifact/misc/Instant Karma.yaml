@@ -1,0 +1,19 @@
+card:
+  name: Instant Karma
+  type: Artifact
+  cost: 2
+  text:
+    - Any time creature deals damage, it deals that much damage to its owner as well.
+    - What in the world you're thinking of laughing in the face of love? -John Lennon
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the top left.
+    - The cost goes in the bottom left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The image should be of a knight stabbing a sword into a mirror.  The point of the sword is emeging from another mirror behind him into his back.
+    - The image should look air brushed in the style of the example image.
+    - The text should look hand drawn in a gothic font.

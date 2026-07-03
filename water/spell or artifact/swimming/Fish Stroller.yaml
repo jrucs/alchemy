@@ -1,0 +1,19 @@
+card:
+  name: Fish Stroller
+  type: Artifact
+  cost: 🜄
+  text:
+    - Attached creature with swimming can attack as if it didn't have swimming.
+    - We all have this urge to explore other uninhabitable exotic worlds, that’s why we send spaceships to the universe. If I were a goldfish, I would definitely be super thrilled if someone invented something for me to go and explore other worlds. -Jerry Huang
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the upper right.  That uses the alchemical symbol for water.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be of an exoskeleton that lets whales walk on land.  It's a mix of technology and magical fields containing water.
+    - The image should have a hand drawn look similar in style of the example provided.

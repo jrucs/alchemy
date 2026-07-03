@@ -1,0 +1,22 @@
+card:
+  name: Krill Swarm Intelligence
+  type: Creature
+  cost: 🜄🜄
+  combat: X/X
+  text:
+    - Swimming.
+    - X is equal to the number of krill in play.
+    - Destroy a krill to prevent a baleen whale from being destroyed.
+    - Order is created from chaos; patterns are revealed; and systems are free to work out their errors and problems at their own level. -Lawrence K Samuels
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right followed by a - and the combat.
+    - The background of the card should be blue.
+    - The image should be of a swarm of krill in the ocean.  The krill have technological devices attached to them.
+    - The entire card, including the image should look hand drawn in the style of the example image.

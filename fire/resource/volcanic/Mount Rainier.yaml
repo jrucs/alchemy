@@ -1,0 +1,17 @@
+card:
+  name: Mount Rainier
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - Mount Rainier keeps me up at night because it poses such a great threat to the surrounding communities. Tacoma and South Seattle are built on 100-foot-thick (30.5-meter) ancient mudflows from eruptions of Mount Rainier. -Jess Phoenix
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a volcano erupting in Bali. The villages of Sebudi, Sorgah, and Sebih were engulfed by a lethal black cloud of searing 230° ash that roasted hundreds where they knelt. Rivers of grey-black lava boiled over Agung’s southern lip and flowed in fiery rivulets down stream beds, raising clouds of steam; heavy rains, possibly caused by the heat of the volcano, mixed with the sulphurous ash to form an acid that killed plant life for miles around.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

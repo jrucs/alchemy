@@ -1,0 +1,19 @@
+card:
+  name: The Plutocrat
+  type: Win Condition
+  cost: 2
+  text:
+    - Any player may pay 50 to win.
+    - "The man who actually buys indulgences is as rare as he who is really penitent; indeed, he is exceedingly rare." ―Martin Luther
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.
+    - The type goes in the bottom right.
+    - The image should be of a man with a briefcase full of money at the pearly gates.
+    - The entire card, the text, background and the image should look hand drawn in the style of a Farside Cartoon.  Text should appear from a typewriter.  The image should be detailed and intricate, with lots of line work and shading.
+    - The image should be the background of the card with no distinct border.

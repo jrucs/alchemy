@@ -1,0 +1,17 @@
+card:
+  name: Mount Mazama
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - Commanding his domain on top of the world, Crater Lake sits in brooding blue and bold relief against an unsympathetic sky, the water like a solid, weighty mass anchored at the earth's core. The winds are unforgiving, the clouds hostile, the hidden shoreline mysterious - Foster Kinnison
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of Mount Mazama erupting around 7,700 years ago. The eruption was one of the largest in North America in the last 10,000 years, ejecting approximately 12 cubic miles (50 cubic kilometers) of magma. The eruption produced a massive ash cloud that spread across much of the western United States, depositing layers of ash as far away as present-day Nebraska. The eruption also generated pyroclastic flows and lahars that devastated the surrounding landscape, ultimately leading to the collapse of the volcano's summit and the formation of Crater Lake.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

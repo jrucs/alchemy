@@ -1,0 +1,21 @@
+card:
+  name: Neobarbarian
+  type: Creature
+  cost: 🜂🜂1
+  combat: 3/3
+  text:
+    - 🜂 +1/+0
+    - Overflow
+    - Full effort is full victory –Katrin Tanja Davidsdottir
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a Neobarbarian who looks a bit like Conan the barbarian with a two handed flaming sword.  He's wearing minimal clothing with futuristic armor, holding his sword above with both hands.  Flame is rippling from it.
+    - The image should be in the style of the reference image.

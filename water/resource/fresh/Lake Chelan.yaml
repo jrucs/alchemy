@@ -1,0 +1,17 @@
+card:
+  name: Lake Chelan
+  type: Resource
+  text:
+    - Tap to produce 🜄
+    - Rivers, ponds, lakes and streams - they all have different names, but they all contain water. -Muhammad Ali
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be of Lake Chelan in Washington, surrounded by mountains and forests, with clear blue water reflecting the sky.
+    - The entire card, including the image, text and border should look hand air brushed in the style of a Gor drawing like this example.

@@ -1,0 +1,17 @@
+card:
+  name: Cirrus Floccus
+  type: Resource
+  text:
+    - Tap to produce 🜁
+    - Elements which take on a rounded appearance on the top, with the lower part appearing ragged. -Wikipedia
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.  Size it so it fits the text without leaving too much empty space.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The image should be of a Cirrus Floccus cloud.  Elements which take on a rounded appearance on the top, with the lower part appearing ragged.
+    - The entire card, including the image, text should look hand painted in the style of Albert Bierstadt.
+    - The outer yellow border of the card should look like a gilded plaster picture frame.

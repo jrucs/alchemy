@@ -1,0 +1,19 @@
+card:
+  name: Slow Sort
+  type: Spell
+  cost: 🜁🜁2
+  text:
+    - Each player stacks the top five cards of their deck, shuffling the remainder.
+    - "The sorting method described in this paper is based on the principle of resolving a problem into two simpler subproblems. Each of these subproblems may be resolved to produce yet simpler problems. The process is repeated until all the resulting problems are found to be trivial." -Hoare
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right.
+    - The image should be a deck of anthropomorphic trading cards arranging themselves in a line.
+    - The entire card, the text, background and the image should look hand drawn in the style of the comic Transmetropolitan.  The image should be detailed and intricate, with lots of line work and shading.
+    - The background of the card should look like it's made of gold.  It should have intricate detail and shading.

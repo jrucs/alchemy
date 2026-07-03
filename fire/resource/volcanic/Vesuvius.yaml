@@ -1,0 +1,17 @@
+card:
+  name: Vesuvius
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - Build your cities on the slope of Vesuvius! Send your ships into uncharted seas! Live in war with your equals and with yourselves! - Neitzsche
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of Mount Vesuvius erupting in 79 AD. The eruption famously buried the cities of Pompeii and Herculaneum under a thick layer of volcanic ash and pumice, preserving them for centuries and providing a detailed snapshot of Roman life.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

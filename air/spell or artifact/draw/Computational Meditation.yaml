@@ -1,0 +1,20 @@
+card:
+  name: Computational Meditation
+  type: Spell
+  cost: 🜁🜁2
+  text:
+    - Search your deck for a card and put it into play. Shuffle your deck.
+    - We're presently in the midst of a third intellectual revolution. The first came with Newton: the planets obey physical laws. The second came with Darwin: biology obeys genetic laws. In today’s third revolution, were coming to realize that even minds and societies emerge from interacting laws that can be regarded as computations. Everything is a computation. ― Rudy Rucker
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right.
+    - The background of the card should be yellow.
+    - The image should be of floating islands, impossible geometry and math.
+    - The entire card, the text, background and the image should look computer rendered in Bryce3D.
+    - The yellow border of the card should have intricate detail, designs, computer symbols, code and shading.

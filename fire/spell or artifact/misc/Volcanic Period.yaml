@@ -1,0 +1,19 @@
+card:
+  name: Volcanic Period
+  type: Artifact
+  cost: 2🜂
+  text:
+    - Volcanic resources produce an extra 🜂
+    - It was the beginning of one of the worst periods to be alive, if not the worst year. - Michael McCormick
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of an island chain of volcanoes erupting with lava flowing into the ocean.  The sky should be dark and filled with ash and smoke.  The image should be dramatic and convey the power and destruction of the volcanic activity.
+    - The image and card in general is in the style of the 1982 Blade Runner comic.

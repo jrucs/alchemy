@@ -1,0 +1,17 @@
+card:
+  name: Novarupta
+  type: Resource
+  text:
+    - Tap to create a 🜂.
+    - The eruption expelled thirty times the amount of material as the Mount St. Helens eruption of 1980.  Huge pyroclastic flows carved their way through the mountainous terrain, forming the Valley of Ten Thousand Smokes.  -BBC
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of Novarupta erupting in 1912. The eruption of Novarupta in 1912 was one of the most powerful volcanic events of the 20th century. It produced a massive ash cloud that rose over 20 miles (32 kilometers) into the atmosphere and deposited ash across a wide area, including parts of Alaska and Canada. The eruption also created a large caldera and formed the Valley of Ten Thousand Smokes, where pyroclastic flows filled the valley with hot ash and gas, creating a surreal landscape that still exists today.
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

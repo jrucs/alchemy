@@ -1,0 +1,20 @@
+card:
+  name: Global Entropy Reducing Machine
+  type: Artifact
+  cost: 🜁🜁1
+  text:
+    - During each player's untap step, all players untap.
+    - We can see how a cup falls off the table and broken into fragments but we never see how the cup is formed and returned to the table. The increase of disorder or entropy distinguishes the past from the future and in this way gives time a definite direction. -Stephen Hawking
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right.
+    - The image should be of a global entropy reducing machine, a complex futuristic devices, emitting magical energy.
+    - The entire card, the text, background and the image should look hand drawn in the style of a 1980s Battletech manual.  Text should appear from a typewriter.  The image should be detailed and intricate, with lots of line work and shading.
+    - The background of the card should look like it's made of gold.  It should have intricate detail and shading.
+  

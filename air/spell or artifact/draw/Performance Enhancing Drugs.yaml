@@ -1,0 +1,20 @@
+card:
+  name: Performance Enhancing Drugs
+  type: Artifact
+  cost: 🜁🜁
+  text:
+    - Any time a player has less than the maximum hand size, they draw.
+    - He lives a life where nothing is beyond him. -Swordfish
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right.
+    - The image should be of a man in a black suit with a white shirt wearing a VR headset.  His hands have VR gloves on.  He's manipulating holographic magical objects.
+    - The entire card, the text, background and the image should look hand drawn in the style of a 1980s Battletech manual.  Text should appear from a typewriter.  The image should be detailed and intricate, with lots of line work and shading.
+    - The background of the card should look like it's made of gold.  It should have intricate detail and shading.
+  

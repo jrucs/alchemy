@@ -1,0 +1,20 @@
+card:
+  name: Dwarven Metal Band
+  type: Creature
+  cost: 🜂🜂1
+  combat: 1/1
+  text:
+    - All dwarves gain +1/+1
+    - The dwarves of yore made mighty spells while hammers fell like ringing bells. -Dwarven Rock
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of several dwarves wearing traditional attire for a medival fantasy setting.  They have long beards.  They're holding guitar and bass typical of a heavy metal band.
+    - The entire card, including the image should look hand drawn in the of a matte drawing from the 1984 film Dune.

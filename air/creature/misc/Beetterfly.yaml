@@ -1,0 +1,21 @@
+card:
+  name: Beetterfly
+  type: Creature
+  cost: 🜁🜁
+  combat: 3/1
+  text:
+    - Flying.
+    - Create an air token when you play Beeterfly.
+    - Float like a butterfly, sting like a bee. - Muhammad Ali
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for air which is a triangle with a line through it.
+    - The type goes in the bottom right follow by a - and the combat.
+    - The background of the card should be yellow.
+    - The image should be of a half bee half butterfly creature flying through fluffy white clouds on a blue sky.
+    - The entire card, the text, background and the image should look hand drawn in the of the comic Transmetropolitan.  The image should be detailed and intricate, with lots of line work and shading.

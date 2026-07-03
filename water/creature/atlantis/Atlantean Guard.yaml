@@ -1,0 +1,20 @@
+card:
+  name: Atlantean Guard
+  type: Creature
+  cost: 🜄🜄
+  combat: 4/4
+  text:
+    - Swimming.
+    - Atlantis will rise again. -Charles Olson
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.  Shrink the box if it is too large for the text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for water which is an upside down triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right followed by a - and the combat.
+    - The background of the card should be blue.
+    - The image should be of an Atlantean guard wearing armor made of coral and shells, holding a futuristic rifle.  He stands underwaterer in fron of a futuristic Atlantis.
+    - The entire card, including the image, text and border should look hand drawn in the style of the example image.

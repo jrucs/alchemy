@@ -1,0 +1,8 @@
+card:
+  name: Fire Elemental
+  type: Creature
+  cost: 🜂
+  combat: 1/1
+  text:
+    - Tap to produce a fire token
+    - I burn, I burn, as when thro' ripen'd corn By driving winds the crackling flames are borne. -Robert Burns

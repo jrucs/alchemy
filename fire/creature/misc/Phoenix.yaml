@@ -1,0 +1,21 @@
+card:
+  name: Phoenix
+  type: Creature
+  cost: 🜂🜂
+  combat: 3/1
+  text:
+    - Flying
+    - If Phoenix is put in your discard pile and you have a Fire Elemental in play, return Phoenix to play.
+    - Ready must thou be to burn thyself in thine own flame; how couldst thou become new if thou have not first become ashes! -Thus Spoke Zarathustra
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for fire which is a triangle.  The triangle does not have any lines through it.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a phoenix rising from flames, its wings spread wide and glowing with fiery energy.
+    - The entire card, including the image should look hand drawn in a style similar to the example.

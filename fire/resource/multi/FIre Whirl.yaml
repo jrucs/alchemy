@@ -1,0 +1,17 @@
+card:
+  name: Fire Whirl
+  type: Resource
+  text:
+    - Tap to create a 🜁 or 🜂.
+    - Most of the largest fire whirls are spawned from wildfires. They form when a warm updraft and convergence from the wildfire are present. -Wikipedia
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be red.
+    - The image should be of a fire whirl (https://en.wikipedia.org/wiki/Fire_whirl)
+    - The entire card, including the image should look hand painted.  Use the reference image for style guidance.

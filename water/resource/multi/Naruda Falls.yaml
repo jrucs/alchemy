@@ -1,0 +1,17 @@
+card:
+  name: Naruda Falls
+  type: Resource
+  text:
+    - Tap to create a 🜁 or 🜄.
+    - When water falls, it flies. — Anthony T. Hincks
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be of Naruda Falls.  Be sure the image accurately reflects Naruda Falls in Washington State.  The scene is bathed in a magical aura.
+    - The entire card, including the image, text and border should look hand drawn in the style of a 1970s RPG manual.

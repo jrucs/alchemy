@@ -1,0 +1,20 @@
+card:
+  name: King Tide
+  type: Artifact
+  cost: 🜄🜄2
+  text:
+    - Overhead 🜄🜄
+    - All resources produce water as an optional alternative to their normal.
+    - There is a tide in the affairs of men which, taken at the flood, leads on to fortune. -Shakespeare
+  prompt:
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the upper right.  That uses the alchemical symbol for water which is an upside down triangle.
+    - The type goes in the bottom right.
+    - The background of the card should be blue.
+    - The image should be of the tide coming in far further than normal, flooding a coastal town and trees.
+    - The image should look hand drawn like a watercolor painting.
