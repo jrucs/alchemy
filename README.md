@@ -42,7 +42,7 @@ Alchemy extends JRUCS base types:
 There is a token for each element:
 
 * Fire - Inflict 1 damage
-* Water - Prevent 1 damage
+* Water - Prevent 2 damage
 * Earth - Gain 🜁, 🜂, 🜄 or 🜃
 * Air - Draw 1 card
 
