@@ -69,7 +69,7 @@ The overall genre is cyberpunk, though air is technology focused with it being m
     * Time - Add / Skip Turns.  Add / Skip Phases.  Tap.
     * Copy and Steal
     * Buff creature
-  * **Win** - Weird things happening with turns and phases.  Killed by buffed creatures or drawing too many cards.
+  * **Win** - Weird things happening with ownership, turns and phases.  Killed by buffed creatures.
 * **Fire**
   * **Philosphy** - Entropy and Anger
   * **Power**
