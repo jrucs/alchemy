@@ -1,0 +1,20 @@
+card:
+  name: Plains Mammoth
+  type: Creature
+  cost: 🜃🜃3
+  combat: 5/5
+  text:
+    - "What happened to those Ice Age beasts? What caused the mammoth and mastodon and wooly rhinoceros to pay the ultimate Darwinian penalty?" -Aiden
+  prompt:
+    - The image should be of a plains mammoth.
+    - The entire card, the font, background and the image should look painted in the style of Jack Coggins.
+    - Use exactly the alchemy symbols specified for the text.  Do not replace them with any other symbol.
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - The image should cover the entire card.
+    - There should be a box overlaid on the image for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for earth which is an upside down triangle with a line through it.
+    - The type goes in the bottom right follow by a - and the combat.
+    - The background of the card should be green.  It should have intricate detail and shading.

@@ -1,0 +1,21 @@
+card:
+  name: Earth Elemental
+  type: Creature
+  cost: 🜃
+  combat: 1/1
+  text:
+    - Tap to produce an earth token
+    - "As a solid rock cannot be moved by the wind, the wise are not shaken by praise or blame." -The Dhammapada
+  prompt:
+    - The image is of a jade buddha statue.  He is meditating in a bamboo forest.  The statue is made of jade, a metamorphic rock.
+    - The entire card, the font, background and the image should look painted in the style of Jack Coggins.
+    - Use exactly the alchemy symbols specified for the text.  Do not replace them with any other symbol.
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - The image should cover the entire card.
+    - There should be a box overlaid on the image for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for earth which is an upside down triangle with a line through it.
+    - The type goes in the bottom right follow by a - and the combat.
+    - The background of the card should be green.  It should have intricate detail and shading.

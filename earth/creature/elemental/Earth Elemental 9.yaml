@@ -1,0 +1,21 @@
+card:
+  name: Earth Elemental
+  type: Creature
+  cost: 🜃
+  combat: 1/1
+  text:
+    - Tap to produce an earth token
+    - "I created a vision of David in my mind and simply carved away everything that was not David." -Michelangelo
+  prompt:
+    - Earth elementals are made of different rocks.  This one is Michelangelo's David carved from marble.  He's walking in the Italian countryside.
+    - The entire card, the font, background and the image should look hand drawn in the style of the example.
+    - Use exactly the alchemy symbols specified for the text.  Do not replace them with any other symbol.
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - The image should cover the entire card.
+    - There should be a box overlaid on the image for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for earth which is an upside down triangle with a line through it.
+    - The type goes in the bottom right follow by a - and the combat.
+    - The background of the card should be green.  It should have intricate detail and shading.

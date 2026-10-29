@@ -1,0 +1,21 @@
+card:
+  name: Earth Elemental
+  type: Creature
+  cost: 🜃
+  combat: 1/1
+  text:
+    - Tap to produce an earth token
+    - "The metaphor is so obvious. Easter Island isolated in the Pacific Ocean — once the island got into trouble, there was no way they could get free. There was no other people from whom they could get help. In the same way that we on Planet Earth, if we ruin our own world, we won't be able to get help." -Jared Diamond
+  prompt:
+    - Earth elementals are made of different rocks.  This one is an Easter Island Moai made of volcanic tuff.  Show the entire Moai standing on Easter Island, not just his head.
+    - The entire card, the font, background and the image should look hand drawn in the style of the example.
+    - Use exactly the alchemy symbols specified for the text.  Do not replace them with any other symbol.
+    - Use a 11:19 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - The image should cover the entire card.
+    - There should be a box overlaid on the image for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.  That uses the alchemical symbol for earth which is an upside down triangle with a line through it.
+    - The type goes in the bottom right follow by a - and the combat.
+    - The background of the card should be green.  It should have intricate detail and shading.
