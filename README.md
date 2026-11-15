@@ -53,7 +53,7 @@ The 5th element is sprit.  You start the game with 10 spirit tokens.  For each e
 * **Flying** - Can only be blocked by other flying creatures.
 * **Formation** - Creatures with formation can combine into a single creature.
 * **Ranged** - If a creature would destroy another creature without ranged comabat, its opponent deals no damage in combat as it is destroyed at range.
-* **Swimming** - Creatures with swimming cannot attack unless the defending player controls a water resource.
+* **Swimming** - Creatures with swimming cannot attack unless the defending player controls a water resource.  If controller has no water resources, the creature is destroyed.
 * **Overflow** - Damage beyond defender's defense overflows.
 
 ## Properties of Elements
